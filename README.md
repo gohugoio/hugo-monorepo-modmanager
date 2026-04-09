@@ -1,2 +1,12 @@
-# hugo-monorepo-modmanager
-A virtual monorepo for management (e.g. updates) of Hugo's Hugo Modules.
+This monorepo is managed by [gitjoin](https://github.com/bep/gitjoin). To install:
+
+
+```bash
+go install github.com/bep/gitjoin@latest
+```
+
+To sync the monorepo, run:
+
+```bash
+gitjoin
+```
