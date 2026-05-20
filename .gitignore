@@ -1,4 +1,6 @@
-testout/
+testout1/
+testout2/
+.DS_Store
 
 # Managed by gitjoin - do not edit this section
 hugo-mod-jslibs-dist/
